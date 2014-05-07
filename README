@@ -1,0 +1,6 @@
+PHP script to upload files to web server.
+
+Requires you to alter hardcoded directory paths.
+Should password protect so that strangers don't upload and fill your disk. 
+
+With PHP setup properly for very large uploads, this program has done it.  It is still running in production to allow nature photographer uploads. 
